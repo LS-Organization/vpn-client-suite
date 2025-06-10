@@ -1,0 +1,11 @@
+*.exe
+*.tar.gz
+*.zip
+*.out
+*.log
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
